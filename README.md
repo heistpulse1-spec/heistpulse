@@ -1,2 +1,2 @@
 # heistpulse
-HeistPulse - Telegram WebApp Game with Timing Challenges
+HeistPulse — A Telegram Mini App Game of Risk, Strategy & Progression
